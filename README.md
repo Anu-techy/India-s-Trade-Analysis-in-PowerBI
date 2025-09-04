@@ -19,11 +19,11 @@ The goal is to provide actionable insights for policymakers, businesses, and sta
 
 ### 📊 **Data Overview**
 
-Government Trade Portals (e.g., Ministry of Commerce) : Primary source for import–export data by country and commodity
+- Government Trade Portals (e.g., Ministry of Commerce) : Primary source for import–export data by country and commodity
 
-Open-Source Datasets (e.g., Statista, Macrotrends, Wikipedia) : Used for inflation, innovation index, market capitalization, population, FDI, logistics performance data
+- Open-Source Datasets (e.g., Statista, Macrotrends, Wikipedia) : Used for inflation, innovation index, market capitalization, population, FDI, logistics performance data
 
-Data pre-processed and validated in Power BI for accurate analysis
+- Data pre-processed and validated in Power BI for accurate analysis
 
 
 ### 🗂️ **Repository Structure**
@@ -44,38 +44,37 @@ Data pre-processed and validated in Power BI for accurate analysis
 
 ### 📊 Key Insights
 
-Trade deficit widened sharply from $6B in 2000 to $330B in 2023.
+- Trade deficit widened sharply from $6B in 2000 to $330B in 2023.
 
-Imports surged due to energy dependency (~$120B annually on crude oil).
+- Imports surged due to energy dependency (~$120B annually on crude oil).
 
-Exports grew but lagged behind, driven mainly by pharma, engineering, and petroleum products.
+- Exports grew but lagged behind, driven mainly by pharma, engineering, and petroleum products.
 
-India ranked 4th globally in market capitalization ($5.7T, Jan 2024), signaling investor confidence.
+- India ranked 4th globally in market capitalization ($5.7T, Jan 2024), signaling investor confidence.
 
-FDI inflows reached $84B in 2022, driven by technology and manufacturing.
+- FDI inflows reached $84B in 2022, driven by technology and manufacturing.
 
-Inflation volatility influenced currency and competitiveness.
+- Inflation volatility influenced currency and competitiveness.
 
 ### 📝 **Recommendations**
 
-Diversify energy sources to reduce crude oil dependency.
+- Diversify energy sources to reduce crude oil dependency.
 
-Boost high-value exports like pharmaceuticals, engineering, and IT services.
+- Boost high-value exports like pharmaceuticals, engineering, and IT services.
 
-Strengthen trade relations beyond China to reduce reliance on imports.
+- Strengthen trade relations beyond China to reduce reliance on imports.
 
-Enhance logistics and infrastructure to sustain export competitiveness.
+- Enhance logistics and infrastructure to sustain export competitiveness.
 
-Leverage digital economy & e-commerce as growth drivers.
+- Leverage digital economy & e-commerce as growth drivers.
 
 🙌 Acknowledgments
 
-Thanks to Government of India trade portals for open access to trade data
+- Thanks to Government of India trade portals for open access to trade data
 
-Open-source communities (Statista, Macrotrends, etc.) for economic indicators
+- Open-source communities (Statista, Macrotrends, etc.) for economic indicators
 
-Inspired by applying data storytelling in Power BI
-
+- Inspired by applying data storytelling in Power BI
 
 ### 👤 **Author**
 
