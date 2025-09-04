@@ -76,7 +76,7 @@ The goal is to provide actionable insights for policymakers, businesses, and sta
 - Learned to interpret data connections across multiple indicators.
 
 - Gained knowledge in selecting the right visuals for impactful insights.
-- 
+ 
 - Most importantly, it boosted my confidence as an analyst to take on more challenging problems.
 
 ### 🙌 **Acknowledgments**
