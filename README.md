@@ -21,7 +21,7 @@ The goal is to provide actionable insights for policymakers, businesses, and sta
 
 Government Trade Portals (e.g., Ministry of Commerce) : Primary source for import–export data by country and commodity
 
-Open-Source Datasets (e.g., Statista, Macrotrends, Wikipedia) : Used for inflation, innovation index, market capitalization, population, FDI, logistics performance
+Open-Source Datasets (e.g., Statista, Macrotrends, Wikipedia) : Used for inflation, innovation index, market capitalization, population, FDI, logistics performance data
 
 Data pre-processed and validated in Power BI for accurate analysis
 
