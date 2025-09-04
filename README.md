@@ -31,16 +31,16 @@ Data pre-processed and validated in Power BI for accurate analysis
 |         File                | Description |
 |-----------------------------|-------------|
 | `dashboard screenshots`  | Main dashboard with interactive visuals |
-| `Additional Visuals`  | screenshot of visual |
+| `Additional Visuals`  | screenshot of visuals |
 | `README.md`                           | Project documentation |
 
 ### 📊 **Dashboard**
 
-[India's Trade Analysis Dashboard](https://app.powerbi.com/groups/me/reports/0fb6346f-2710-4405-86a4-44b23b1c4a34/ReportSection16b73cde20cf3ed17b51?experience=power-bi)
+[India's Trade Analysis Dashboard]([https://app.powerbi.com/groups/me/reports/0fb6346f-2710-4405-86a4-44b23b1c4a34/ReportSection16b73cde20cf3ed17b51?experience=power-bi](https://www.youtube.com/watch?v=ZftNLv-lroY))
 
 ### ▶️ **Demo Video**
 
-🎥 [India's Trade Analysis Video Walkthrough](https://youtu.be/osCPWr3aIjg)
+🎥 [India's Trade Analysis Video Walkthrough](https://www.youtube.com/watch?v=ZftNLv-lroY)
 
 ### 📊 Key Insights
 
