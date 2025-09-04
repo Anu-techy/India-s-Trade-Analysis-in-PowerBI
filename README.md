@@ -32,6 +32,7 @@ The goal is to provide actionable insights for policymakers, businesses, and sta
 |-----------------------------|-------------|
 | `dashboard screenshots`  | Main dashboard with interactive visuals |
 | `Additional Visuals`  | screenshot of visuals |
+| `Trade Insights.pdf`  | Detailed Visual and insights, Recommendations  |
 | `README.md`                           | Project documentation |
 
 ### 📊 **Dashboard**
