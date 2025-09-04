@@ -36,7 +36,7 @@ The goal is to provide actionable insights for policymakers, businesses, and sta
 
 ### 📊 **Dashboard**
 
-[India's Trade Analysis Dashboard]([https://app.powerbi.com/groups/me/reports/0fb6346f-2710-4405-86a4-44b23b1c4a34/ReportSection16b73cde20cf3ed17b51?experience=power-bi](https://www.youtube.com/watch?v=ZftNLv-lroY))
+[India's Trade Analysis Dashboard](https://app.powerbi.com/groups/me/reports/b237db39-58cc-407f-ae68-bc08e2376b27/35b5550f60e0c53de0d5?experience=power-bi)
 
 ### ▶️ **Demo Video**
 
