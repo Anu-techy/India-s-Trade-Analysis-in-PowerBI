@@ -43,7 +43,7 @@ The goal is to provide actionable insights for policymakers, businesses, and sta
 
 🎥 [India's Trade Analysis Video Walkthrough](https://www.youtube.com/watch?v=ZftNLv-lroY)
 
-### 📊 Key Insights
+### 📊 **Key Insights**
 
 - Trade deficit widened sharply from $6B in 2000 to $330B in 2023.
 
@@ -69,7 +69,17 @@ The goal is to provide actionable insights for policymakers, businesses, and sta
 
 - Leverage digital economy & e-commerce as growth drivers.
 
-🙌 Acknowledgments
+### **What I Learnt**
+
+- This is my independent project, which gave me end-to-end ownership of the work
+
+- Learned to interpret data connections across multiple indicators.
+
+- Gained knowledge in selecting the right visuals for impactful insights.
+- 
+- Most importantly, it boosted my confidence as an analyst to take on more challenging problems.
+
+### 🙌 **Acknowledgments**
 
 - Thanks to Government of India trade portals for open access to trade data
 
