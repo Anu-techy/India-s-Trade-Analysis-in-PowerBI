@@ -2,7 +2,7 @@
 
 ### 📌 **Project Overview**
 
-This project explores India’s international trade dynamics (2000–2023) by employing advance data analytic techniques to uncover 
+This project explores India’s international trade dynamics by employing advance data analytic techniques to uncover 
 overall trade patterns influencing the trade deficit. 
 The goal is to provide actionable insights for policymakers, businesses, and stakeholders by analyzing imports, exports, FDI inflows, and global competitiveness.
 
