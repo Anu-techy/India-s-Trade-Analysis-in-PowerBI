@@ -9,13 +9,13 @@ The goal is to provide actionable insights for policymakers, businesses, and sta
 
 ### 🎯 **Objectives**
 
- - Analyze the trends in key metrics like Exports, Imports , Trade Deficit
+ - Analyze the trends in key metrics like Exports, Imports, Trade Deficit
 
  - Analyze the impact of Economic Factorrs on Trade Deficit.
 
  - Analyze the Critical commodities which are influencing imports and Exports.
    
- - Understand India's strategic Trade Alliances with world-wide Markets/coountries.
+ - Understand India's strategic Trade Alliances with world-wide Markets/countries.
 
 ### 📊 **Data Overview**
 
