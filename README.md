@@ -11,7 +11,7 @@ The goal is to provide actionable insights for policymakers, businesses, and sta
 
  - Analyze the trends in key metrics like Exports, Imports, Trade Deficit
 
- - Analyze the impact of Economic Factorrs on Trade Deficit.
+ - Analyze the impact of Economic Factors like inflation, population growth, Equity Market performance, FDI and Logistic performance on Indian Trade.
 
  - Analyze the Critical commodities which are influencing imports and Exports.
    
